@@ -1,0 +1,31 @@
+baseURL = "https://shuruws.github.io/jots_dots/"
+languageCode = "en-us"
+title = "My Jots and Dots"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "My Jots and Dots"
+description = "My personal blog and notes"
+keywords = ["Blog", "Portfolio", "Notes"]
+author = "Your Name"
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+
+[params.homeInfoParams]
+Title = "Welcome to My Jots and Dots 👋"
+Content = "This is my personal blog where I share my thoughts and notes."
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/Shuruws"
