@@ -6,7 +6,7 @@
     <description>Recent content in Posts on My Jots and Dots</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 May 2025 15:09:44 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 15:12:43 +0800</lastBuildDate>
     <atom:link href="https://shuruws.github.io/jotsNdots/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memo</title>
@@ -14,13 +14,6 @@
       <pubDate>Sat, 03 May 2025 14:49:31 +0800</pubDate>
       <guid>https://shuruws.github.io/jotsNdots/posts/memo/</guid>
       <description>A collection of words that stick with me. Some make me think, some make me laugh, all make me pause.</description>
-    </item>
-    <item>
-      <title>Testing</title>
-      <link>https://shuruws.github.io/jotsNdots/posts/testing/</link>
-      <pubDate>Fri, 02 May 2025 13:07:18 +0800</pubDate>
-      <guid>https://shuruws.github.io/jotsNdots/posts/testing/</guid>
-      <description>&lt;p&gt;This is a test post to verify that Hugo is working correctly.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
