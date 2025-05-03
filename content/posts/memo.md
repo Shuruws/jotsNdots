@@ -3,6 +3,7 @@ title: "Memo"
 date: 2025-05-03T14:49:31+08:00
 enableGitInfo: true
 draft: false
+summary: "A collection of words that stick with me. Some make me think, some make me laugh, all make me pause."
 ---
 
 A collection of words that stick with me.  
@@ -13,10 +14,5 @@ Some make me think, some make me laugh, all make me pause.
 
 "Life is really simple, but we insist on making it complicated."
 *Confucius, The Analects*
-
-&nbsp;
-
-"The best way to predict the future is to create it."
-— *Peter Drucker*
 
 
