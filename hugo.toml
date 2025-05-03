@@ -27,7 +27,7 @@ defaultTheme = "auto"
 disableThemeToggle = false
 
 [params.homeInfoParams]
-Title = "Heyo, here's Shuru's jots and dots 👋"
+Title = "Heyo there 👋"
 Content = """
 Kinda strange to introduce myself, so I'll skip that. 
 You can get to know me by tone and words.
