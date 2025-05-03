@@ -6,6 +6,21 @@
     <description>Recent content in Tags on My Jots and Dots</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/jots_dots/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/jots_dots/tags/introduction/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jots_dots/tags/introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/jots_dots/tags/welcome/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jots_dots/tags/welcome/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

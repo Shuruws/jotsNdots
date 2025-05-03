@@ -15,16 +15,18 @@ minifyOutput = true
 [params]
 env = "production"
 title = "My Jots and Dots"
-description = "My personal blog and notes"
-keywords = ["Blog", "Portfolio", "Notes"]
-author = "Your Name"
-DateFormat = "January 2, 2006"
+description = "A collection of my thoughts, learnings, and adventures in the twenties."
+keywords = ["Blog", "ideas", "fun tech"]
+author = "Shuru Bonaventure"
+DateFormat = "May 2, 2025"
 defaultTheme = "auto"
 disableThemeToggle = false
 
 [params.homeInfoParams]
-Title = "Welcome to My Jots and Dots 👋"
-Content = "This is my personal blog where I share my thoughts and notes."
+Title = "Here is my notepad for random thoughts👋"
+Content = """
+I got bored working remotely and trying to write for fun. 
+"""
 
 [[params.socialIcons]]
 name = "github"
