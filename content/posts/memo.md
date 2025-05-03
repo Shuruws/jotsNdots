@@ -5,12 +5,18 @@ enableGitInfo: true
 draft: false
 ---
 
-A collection of words that stick with me. Some make me think, some make me laugh, all make me pause.
+A collection of words that stick with me.  
+Some make me think, some make me laugh, all make me pause.
 
-> "We all have a 'David' inside of us, and our job is to chip away the excess stone."  
-> — *Tal Ben-Shahar Positive Psychology*
+"We all have a 'David' inside of us, and our job is to chip away the excess stone."
+*Tal Ben-Shahar, Positive Psychology*
 
-> "Second quote here"  
-> — *Source/Author*
+"Life is really simple, but we insist on making it complicated."
+*Confucius, The Analects*
 
-{{< lastmod >}}
+&nbsp;
+
+"The best way to predict the future is to create it."
+— *Peter Drucker*
+
+

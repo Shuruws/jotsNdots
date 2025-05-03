@@ -1,0 +1,58 @@
+/* Quote blocks */
+.post-content p {
+    background-color: #f3f4f6;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    border-radius: 0.375rem;
+}
+
+/* Quote attribution */
+.post-content p em {
+    display: block;
+    margin-top: 1rem;
+    color: #6b7280;
+}
+
+/* Remove background from non-quote paragraphs */
+.post-content p:first-of-type,
+.post-content p:last-of-type {
+    background-color: transparent;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+/* Last modified text */
+.last-modified {
+    color: #6b7280;
+    font-size: 0.875rem;
+    margin-top: 2rem;
+    border-top: 1px solid #e5e7eb;
+    padding-top: 1rem;
+}
+
+/* Traditional blockquote style */
+blockquote {
+    border-left: 4px solid #3b82f6;
+    background-color: #f8fafc;
+    padding: 1rem;
+    margin: 1.5rem 0;
+    border-radius: 0.375rem;
+}
+
+/* Code block quote style */
+.highlight pre {
+    background-color: #f3f4f6 !important;
+    border-radius: 0.5rem;
+    padding: 1.5rem !important;
+    margin: 1.5rem 0;
+    border: 1px solid #e5e7eb;
+}
+
+/* Inline code quote style */
+p code {
+    background-color: #fdf2f8 !important;
+    color: #be185d !important;
+    padding: 0.2rem 0.4rem;
+    border-radius: 0.25rem;
+    font-size: 0.95em;
+} 
