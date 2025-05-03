@@ -29,10 +29,8 @@ disableThemeToggle = false
 [params.homeInfoParams]
 Title = "Heyo there 👋"
 Content = """
-Kinda strange to introduce myself, so I'll skip that.\n
-You can get to know me by tone and words.\n
-I got dull and a little unmotivated working remotely, so I am trying to write for fun and get sharp again.\n
-This is my notepad for a scavenger's hunt for passion.
+Kinda strange to introduce myself, so I'll skip that.\n You can get to know me by tone and words.\n
+I got dull and a little unmotivated recently, so I am trying to write and get sharp again.\n
 """
 
 [[params.socialIcons]]
