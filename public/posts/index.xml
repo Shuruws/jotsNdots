@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My Jots and Dots</title>
-    <link>http://localhost:1313/jotsNdots/posts/</link>
+    <link>https://shuruws.github.io/jotsNdots/posts/</link>
     <description>Recent content in Posts on My Jots and Dots</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 May 2025 14:56:07 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/jotsNdots/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 May 2025 15:05:51 +0800</lastBuildDate>
+    <atom:link href="https://shuruws.github.io/jotsNdots/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memo</title>
-      <link>http://localhost:1313/jotsNdots/posts/memo/</link>
+      <link>https://shuruws.github.io/jotsNdots/posts/memo/</link>
       <pubDate>Sat, 03 May 2025 14:49:31 +0800</pubDate>
-      <guid>http://localhost:1313/jotsNdots/posts/memo/</guid>
+      <guid>https://shuruws.github.io/jotsNdots/posts/memo/</guid>
       <description>&lt;p&gt;A collection of words that stick with me.&lt;br&gt;
 Some make me think, some make me laugh, all make me pause.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;We all have a &amp;lsquo;David&amp;rsquo; inside of us, and our job is to chip away the excess stone.&amp;rdquo;
@@ -25,9 +25,9 @@ Some make me think, some make me laugh, all make me pause.&lt;/p&gt;
     </item>
     <item>
       <title>Testing</title>
-      <link>http://localhost:1313/jotsNdots/posts/testing/</link>
+      <link>https://shuruws.github.io/jotsNdots/posts/testing/</link>
       <pubDate>Fri, 02 May 2025 13:07:18 +0800</pubDate>
-      <guid>http://localhost:1313/jotsNdots/posts/testing/</guid>
+      <guid>https://shuruws.github.io/jotsNdots/posts/testing/</guid>
       <description>&lt;p&gt;This is a test post to verify that Hugo is working correctly.&lt;/p&gt;</description>
     </item>
   </channel>

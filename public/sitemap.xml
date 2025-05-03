@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/jotsNdots/posts/memo/</loc>
-    <lastmod>2025-05-03T14:56:07+08:00</lastmod>
+    <loc>https://shuruws.github.io/jotsNdots/posts/memo/</loc>
+    <lastmod>2025-05-03T15:05:51+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jotsNdots/</loc>
-    <lastmod>2025-05-03T14:56:07+08:00</lastmod>
+    <loc>https://shuruws.github.io/jotsNdots/</loc>
+    <lastmod>2025-05-03T15:05:51+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jotsNdots/posts/</loc>
-    <lastmod>2025-05-03T14:56:07+08:00</lastmod>
+    <loc>https://shuruws.github.io/jotsNdots/posts/</loc>
+    <lastmod>2025-05-03T15:05:51+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jotsNdots/posts/testing/</loc>
+    <loc>https://shuruws.github.io/jotsNdots/posts/testing/</loc>
     <lastmod>2025-05-03T13:51:37+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jotsNdots/categories/</loc>
+    <loc>https://shuruws.github.io/jotsNdots/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/jotsNdots/tags/</loc>
+    <loc>https://shuruws.github.io/jotsNdots/tags/</loc>
   </url>
 </urlset>
