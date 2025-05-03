@@ -41,3 +41,8 @@ url = "https://github.com/Shuruws"
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/shuru-wang-0a5101237/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
