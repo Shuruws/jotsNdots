@@ -15,5 +15,20 @@
       <guid>https://shuruws.github.io/jotsNdots/posts/testing/</guid>
       <description>&lt;p&gt;This is a test post to verify that Hugo is working correctly.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Memo</title>
+      <link>https://shuruws.github.io/jotsNdots/posts/memo/</link>
+      <pubDate>Sat, 09 Mar 2024 14:20:29 +0100</pubDate>
+      <guid>https://shuruws.github.io/jotsNdots/posts/memo/</guid>
+      <description>&lt;p&gt;A collection of words that stick with me. Some make me think, some make me laugh, all make me pause.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;First quote here&amp;rdquo;&lt;br&gt;
+— &lt;em&gt;Source/Author&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Second quote here&amp;rdquo;&lt;br&gt;
+— &lt;em&gt;Source/Author&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Last updated: March 9, 2024&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
