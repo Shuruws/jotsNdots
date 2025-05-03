@@ -3,10 +3,14 @@ languageCode = "en-us"
 title = "My Jots and Dots"
 theme = "PaperMod"
 
+enableGitInfo = true
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
+
+[frontmatter]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [minify]
 disableXML = true

@@ -1,16 +1,16 @@
 ---
 title: "Memo"
-date: 2024-03-09T14:20:29+01:00
+date: 2025-05-03T14:49:31+08:00
+enableGitInfo: true
 draft: false
 ---
 
 A collection of words that stick with me. Some make me think, some make me laugh, all make me pause.
 
-> "First quote here"  
-> — *Source/Author*
+> "We all have a 'David' inside of us, and our job is to chip away the excess stone."  
+> — *Tal Ben-Shahar Positive Psychology*
 
 > "Second quote here"  
 > — *Source/Author*
 
----
-*Last updated: March 9, 2024*
+{{< lastmod >}}
